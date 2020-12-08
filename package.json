@@ -1,0 +1,16 @@
+{
+  "name": "aoc-2020",
+  "version": "1.0.0",
+  "description": "Solutions for Advent of Code 2020 problems",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "watch": "nodemon src/index.js"
+  },
+  "author": "ethomp-dev",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
